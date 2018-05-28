@@ -1,2 +1,0 @@
-# pythonwebdev
-python web dev
